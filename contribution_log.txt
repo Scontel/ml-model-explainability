@@ -528,3 +528,4 @@ Commit on 2023-01-02T14:36:33: Update documentation and examples
 Commit on 2023-01-02T17:38:07: Update README with installation instructions
 Commit on 2023-01-03T11:33:13: Add support for distributed training
 Commit on 2023-01-04T19:16:09: Enhance visualization of results
+Commit on 2023-01-04T17:37:22: Update README with installation instructions
