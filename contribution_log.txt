@@ -563,3 +563,4 @@ Commit on 2023-01-17T11:17:05: Integrate new data source for training
 Commit on 2023-01-17T14:37:54: Implement caching mechanism for frequent requests
 Commit on 2023-01-17T12:04:17: Integrate new data source for training
 Commit on 2023-01-17T15:09:46: Update README with installation instructions
+Commit on 2023-01-18T17:04:02: Update README with installation instructions
