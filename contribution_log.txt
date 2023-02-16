@@ -604,3 +604,4 @@ Commit on 2023-02-10T16:02:07: Fix minor bug in data processing
 Commit on 2023-02-15T15:44:34: Refactor core logic for better performance
 Commit on 2023-02-15T17:13:17: Update README with installation instructions
 Commit on 2023-02-15T16:39:44: Add support for distributed training
+Commit on 2023-02-16T15:43:28: Improve memory management during inference
