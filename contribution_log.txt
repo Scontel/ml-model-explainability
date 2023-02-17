@@ -610,3 +610,4 @@ Commit on 2023-02-16T09:41:57: Update CI/CD pipeline configuration
 Commit on 2023-02-16T12:31:04: Update README with installation instructions
 Commit on 2023-02-16T11:01:31: Refactor core logic for better performance
 Commit on 2023-02-16T18:15:21: Optimize model training loop
+Commit on 2023-02-17T17:41:04: Update README with installation instructions
