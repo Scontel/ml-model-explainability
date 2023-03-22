@@ -659,3 +659,4 @@ Commit on 2023-03-21T14:53:06: Enhance security measures for API endpoints
 Commit on 2023-03-22T09:15:03: Update README with installation instructions
 Commit on 2023-03-22T17:30:17: Update README with installation instructions
 Commit on 2023-03-22T17:47:53: Improve memory management during inference
+Commit on 2023-03-22T11:05:36: Improve error handling and logging
