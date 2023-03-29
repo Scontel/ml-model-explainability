@@ -671,3 +671,4 @@ Commit on 2023-03-28T13:44:06: Integrate new data source for training
 Commit on 2023-03-28T13:46:29: Refactor core logic for better performance
 Commit on 2023-03-28T15:55:17: Optimize model training loop
 Commit on 2023-03-29T13:00:41: Improve error handling and logging
+Commit on 2023-03-29T12:03:11: Update README with installation instructions
