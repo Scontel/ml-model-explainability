@@ -681,3 +681,4 @@ Commit on 2023-03-31T09:44:18: Fix minor bug in data processing
 Commit on 2023-03-31T14:48:01: Update CI/CD pipeline configuration
 Commit on 2023-04-03T14:26:08: Optimize model training loop
 Commit on 2023-04-05T18:33:58: Improve memory management during inference
+Commit on 2023-04-05T13:09:29: Update README with installation instructions
