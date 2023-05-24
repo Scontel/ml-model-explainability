@@ -742,3 +742,4 @@ Commit on 2023-05-22T18:05:06: Integrate new data source for training
 Commit on 2023-05-23T09:41:51: Update documentation and examples
 Commit on 2023-05-23T19:24:04: Integrate new data source for training
 Commit on 2023-05-24T18:46:34: Integrate new data source for training
+Commit on 2023-05-24T15:10:33: Improve error handling and logging
