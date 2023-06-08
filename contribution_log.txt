@@ -762,3 +762,4 @@ Commit on 2023-06-07T18:21:59: Add support for distributed training
 Commit on 2023-06-07T10:18:24: Update README with installation instructions
 Commit on 2023-06-07T19:58:17: Add support for distributed training
 Commit on 2023-06-07T11:16:42: Enhance visualization of results
+Commit on 2023-06-08T11:21:27: Clean up code and remove unused imports
