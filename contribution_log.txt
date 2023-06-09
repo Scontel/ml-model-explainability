@@ -764,3 +764,4 @@ Commit on 2023-06-07T19:58:17: Add support for distributed training
 Commit on 2023-06-07T11:16:42: Enhance visualization of results
 Commit on 2023-06-08T11:21:27: Clean up code and remove unused imports
 Commit on 2023-06-09T18:32:30: Update CI/CD pipeline configuration
+Commit on 2023-06-09T13:18:06: Update documentation and examples
