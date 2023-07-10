@@ -812,3 +812,4 @@ Commit on 2023-07-07T17:08:21: Update documentation and examples
 Commit on 2023-07-07T17:11:19: Implement caching mechanism for frequent requests
 Commit on 2023-07-07T14:25:15: Update CI/CD pipeline configuration
 Commit on 2023-07-07T19:07:05: Improve memory management during inference
+Commit on 2023-07-10T19:23:46: Add support for distributed training
