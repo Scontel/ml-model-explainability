@@ -861,3 +861,4 @@ Commit on 2023-08-08T11:45:47: Improve memory management during inference
 Commit on 2023-08-09T10:04:20: Enhance visualization of results
 Commit on 2023-08-09T14:39:09: Implement caching mechanism for frequent requests
 Commit on 2023-08-09T19:59:31: Clean up code and remove unused imports
+Commit on 2023-08-10T13:46:49: Clean up code and remove unused imports
