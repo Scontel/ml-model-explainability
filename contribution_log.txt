@@ -936,3 +936,4 @@ Commit on 2023-09-26T12:58:24: Update README with installation instructions
 Commit on 2023-09-26T14:04:42: Add configuration options for hyperparameters
 Commit on 2023-09-26T14:42:34: Enhance visualization of results
 Commit on 2023-09-26T18:20:27: Optimize model training loop
+Commit on 2023-09-26T17:08:40: Add configuration options for hyperparameters
