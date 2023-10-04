@@ -953,3 +953,4 @@ Commit on 2023-10-02T11:16:47: Fix edge case in input validation
 Commit on 2023-10-04T18:55:14: Update README with installation instructions
 Commit on 2023-10-04T09:01:04: Update README with installation instructions
 Commit on 2023-10-04T11:34:07: Improve memory management during inference
+Commit on 2023-10-04T19:52:43: Update dependencies to latest versions
