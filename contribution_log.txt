@@ -960,3 +960,4 @@ Commit on 2023-10-05T13:47:34: Implement new algorithm for data augmentation
 Commit on 2023-10-05T17:32:59: Add configuration options for hyperparameters
 Commit on 2023-10-06T12:49:54: Update README with installation instructions
 Commit on 2023-10-06T15:59:25: Enhance visualization of results
+Commit on 2023-10-06T11:09:09: Update README with installation instructions
