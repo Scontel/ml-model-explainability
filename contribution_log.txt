@@ -993,3 +993,4 @@ Commit on 2023-10-25T18:36:28: Refactor core logic for better performance
 Commit on 2023-10-25T18:58:19: Refactor core logic for better performance
 Commit on 2023-10-26T13:33:43: Update documentation and examples
 Commit on 2023-10-26T10:40:12: Fix edge case in input validation
+Commit on 2023-10-27T09:38:16: Add support for distributed training
