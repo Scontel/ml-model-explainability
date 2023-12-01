@@ -1051,3 +1051,4 @@ Commit on 2023-11-29T14:34:43: Improve memory management during inference
 Commit on 2023-11-29T18:57:03: Update dependencies to latest versions
 Commit on 2023-11-30T13:12:17: Improve error handling and logging
 Commit on 2023-11-30T11:03:29: Update README with installation instructions
+Commit on 2023-12-01T11:23:10: Update README with installation instructions
