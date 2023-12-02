@@ -1055,3 +1055,4 @@ Commit on 2023-12-01T11:23:10: Update README with installation instructions
 Commit on 2023-12-01T15:55:51: Improve memory management during inference
 Commit on 2023-12-01T12:50:06: Update README with installation instructions
 Commit on 2023-12-01T09:43:58: Add support for distributed training
+Commit on 2023-12-01T19:51:39: Add support for distributed training
