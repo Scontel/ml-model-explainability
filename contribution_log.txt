@@ -4,3 +4,4 @@ Commit on 2024-11-01T17:35:08: Optimize model training loop
 Commit on 2024-11-01T15:05:21: Update README with installation instructions
 Commit on 2024-11-04T10:04:50: Clean up code and remove unused imports
 Commit on 2024-11-05T15:37:22: Optimize model training loop
+Commit on 2024-11-06T17:25:43: Enhance visualization of results
