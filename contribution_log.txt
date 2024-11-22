@@ -20,3 +20,4 @@ Commit on 2024-11-19T16:46:49: Enhance visualization of results
 Commit on 2024-11-20T16:40:29: Update README with installation instructions
 Commit on 2024-11-20T18:53:50: Add unit tests for new features
 Commit on 2024-11-20T15:54:06: Refactor core logic for better performance
+Commit on 2024-11-22T09:51:19: Clean up code and remove unused imports
