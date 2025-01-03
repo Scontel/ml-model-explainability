@@ -59,3 +59,4 @@ Commit on 2024-12-30T12:14:54: Update README with installation instructions
 Commit on 2024-12-30T11:47:44: Add unit tests for new features
 Commit on 2024-12-30T18:50:50: Add unit tests for new features
 Commit on 2025-01-02T17:51:21: Refactor core logic for better performance
+Commit on 2025-01-03T10:48:37: Enhance visualization of results
