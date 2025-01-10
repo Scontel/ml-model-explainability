@@ -65,3 +65,4 @@ Commit on 2025-01-07T17:56:13: Improve error handling and logging
 Commit on 2025-01-07T10:23:11: Fix minor bug in data processing
 Commit on 2025-01-08T15:24:58: Enhance visualization of results
 Commit on 2025-01-10T16:01:43: Improve error handling and logging
+Commit on 2025-01-10T15:37:10: Update README with installation instructions
