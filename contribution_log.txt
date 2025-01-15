@@ -75,3 +75,4 @@ Commit on 2025-01-13T17:23:12: Add configuration options for hyperparameters
 Commit on 2025-01-14T09:26:48: Clean up code and remove unused imports
 Commit on 2025-01-14T09:45:54: Optimize model training loop
 Commit on 2025-01-15T14:59:42: Fix minor bug in data processing
+Commit on 2025-01-15T16:02:59: Add support for distributed training
