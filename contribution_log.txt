@@ -95,3 +95,4 @@ Commit on 2025-01-28T16:03:07: Improve memory management during inference
 Commit on 2025-01-29T16:21:12: Update dependencies to latest versions
 Commit on 2025-01-29T13:12:53: Update dependencies to latest versions
 Commit on 2025-01-29T09:32:28: Improve memory management during inference
+Commit on 2025-01-29T16:33:48: Enhance visualization of results
