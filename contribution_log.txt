@@ -112,3 +112,4 @@ Commit on 2025-02-12T11:29:11: Refactor core logic for better performance
 Commit on 2025-02-12T11:08:29: Update README with installation instructions
 Commit on 2025-02-12T18:47:25: Add configuration options for hyperparameters
 Commit on 2025-02-12T12:51:58: Add configuration options for hyperparameters
+Commit on 2025-02-13T15:07:56: Enhance visualization of results
