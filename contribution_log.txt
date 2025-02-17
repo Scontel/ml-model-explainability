@@ -117,3 +117,4 @@ Commit on 2025-02-14T10:53:41: Update README with installation instructions
 Commit on 2025-02-14T10:17:33: Clean up code and remove unused imports
 Commit on 2025-02-17T10:26:37: Add configuration options for hyperparameters
 Commit on 2025-02-17T11:49:30: Improve memory management during inference
+Commit on 2025-02-17T14:04:41: Improve error handling and logging
