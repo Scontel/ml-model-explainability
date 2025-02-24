@@ -124,3 +124,4 @@ Commit on 2025-02-19T13:12:26: Optimize model training loop
 Commit on 2025-02-19T18:03:23: Update documentation and examples
 Commit on 2025-02-20T15:08:58: Add configuration options for hyperparameters
 Commit on 2025-02-21T14:36:30: Add unit tests for new features
+Commit on 2025-02-24T13:24:11: Update README with installation instructions
