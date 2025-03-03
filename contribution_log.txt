@@ -129,3 +129,4 @@ Commit on 2025-02-26T13:27:45: Improve memory management during inference
 Commit on 2025-02-26T12:59:11: Update README with installation instructions
 Commit on 2025-02-27T09:09:53: Enhance visualization of results
 Commit on 2025-02-27T12:10:53: Update dependencies to latest versions
+Commit on 2025-03-03T16:31:32: Enhance visualization of results
