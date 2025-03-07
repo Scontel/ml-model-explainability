@@ -137,3 +137,4 @@ Commit on 2025-03-05T11:25:08: Refactor core logic for better performance
 Commit on 2025-03-06T13:04:08: Clean up code and remove unused imports
 Commit on 2025-03-06T15:11:17: Improve error handling and logging
 Commit on 2025-03-07T10:01:47: Improve memory management during inference
+Commit on 2025-03-07T15:26:36: Update documentation and examples
