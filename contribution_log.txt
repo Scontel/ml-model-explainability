@@ -168,3 +168,4 @@ Commit on 2025-03-31T14:26:24: Update documentation and examples
 Commit on 2025-04-01T16:51:53: Add support for distributed training
 Commit on 2025-04-01T14:26:13: Fix minor bug in data processing
 Commit on 2025-04-02T11:42:31: Clean up code and remove unused imports
+Commit on 2025-04-03T15:46:27: Improve memory management during inference
