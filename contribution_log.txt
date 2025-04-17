@@ -184,3 +184,4 @@ Commit on 2025-04-15T11:22:56: Refactor core logic for better performance
 Commit on 2025-04-15T17:55:21: Add support for distributed training
 Commit on 2025-04-16T17:12:42: Update README with installation instructions
 Commit on 2025-04-16T17:07:12: Fix edge case in input validation
+Commit on 2025-04-17T16:08:06: Fix edge case in input validation
