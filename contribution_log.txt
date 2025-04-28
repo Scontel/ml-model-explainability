@@ -196,3 +196,4 @@ Commit on 2025-04-23T12:51:22: Add unit tests for new features
 Commit on 2025-04-23T15:52:34: Add support for distributed training
 Commit on 2025-04-24T15:12:28: Add unit tests for new features
 Commit on 2025-04-25T14:42:58: Add unit tests for new features
+Commit on 2025-04-28T18:28:08: Update documentation and examples
