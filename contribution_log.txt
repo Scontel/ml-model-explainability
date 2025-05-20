@@ -224,3 +224,4 @@ Commit on 2025-05-19T14:44:00: Refactor core logic for better performance
 Commit on 2025-05-19T15:31:57: Update README with installation instructions
 Commit on 2025-05-19T10:20:59: Enhance visualization of results
 Commit on 2025-05-19T12:03:55: Add support for distributed training
+Commit on 2025-05-20T15:17:30: Refactor core logic for better performance
