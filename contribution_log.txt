@@ -254,3 +254,4 @@ Commit on 2025-06-17T17:39:21: Fix edge case in input validation
 Commit on 2025-06-17T17:36:22: Update README with installation instructions
 Commit on 2025-06-18T18:05:24: Enhance visualization of results
 Commit on 2025-06-18T12:08:15: Add support for distributed training
+Commit on 2025-06-19T11:33:32: Update README with installation instructions
