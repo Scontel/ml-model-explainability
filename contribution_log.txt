@@ -294,3 +294,4 @@ Commit on 2025-07-23T16:42:06: Clean up code and remove unused imports
 Commit on 2025-07-24T18:01:15: Enhance visualization of results
 Commit on 2025-07-25T09:23:04: Fix edge case in input validation
 Commit on 2025-07-29T11:10:20: Optimize model training loop
+Commit on 2025-07-29T14:00:54: Add configuration options for hyperparameters
