@@ -310,3 +310,4 @@ Commit on 2025-08-06T15:51:12: Improve error handling and logging
 Commit on 2025-08-07T18:13:41: Enhance visualization of results
 Commit on 2025-08-07T17:42:40: Improve memory management during inference
 Commit on 2025-08-07T10:27:07: Optimize model training loop
+Commit on 2025-08-07T14:12:14: Update README with installation instructions
