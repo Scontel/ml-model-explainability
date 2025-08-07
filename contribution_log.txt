@@ -308,3 +308,4 @@ Commit on 2025-08-05T18:18:18: Enhance visualization of results
 Commit on 2025-08-06T13:20:20: Add support for distributed training
 Commit on 2025-08-06T15:51:12: Improve error handling and logging
 Commit on 2025-08-07T18:13:41: Enhance visualization of results
+Commit on 2025-08-07T17:42:40: Improve memory management during inference
