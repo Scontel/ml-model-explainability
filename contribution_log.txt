@@ -328,3 +328,4 @@ Commit on 2025-08-21T18:44:31: Add support for distributed training
 Commit on 2025-08-22T14:25:21: Add support for distributed training
 Commit on 2025-08-22T11:04:56: Add configuration options for hyperparameters
 Commit on 2025-08-22T11:03:50: Add support for distributed training
+Commit on 2025-08-25T12:38:40: Update documentation and examples
