@@ -419,3 +419,4 @@ Commit on 2025-11-19T14:37:24: Add configuration options for hyperparameters
 Commit on 2025-11-20T16:32:24: Add configuration options for hyperparameters
 Commit on 2025-11-24T15:16:48: Add support for distributed training
 Commit on 2025-11-26T14:44:27: Fix edge case in input validation
+Commit on 2025-11-26T17:22:59: Update README with installation instructions
